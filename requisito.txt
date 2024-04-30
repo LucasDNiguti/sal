@@ -1,0 +1,3 @@
+[] Solicitar o nome
+[] Salário de uma pessoa
+[] Apresente o nome e seu novo salário como aumento de 28,5%.
